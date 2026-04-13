@@ -1,0 +1,8 @@
+{
+  "entryPoints": ["./src/**/*.ts"],
+  "exclude": ["**/*.test.ts", "**/node_modules/**"],
+  "out": "docs",
+  "name": "Data Structures and Algorithms",
+  "entryPointStrategy": "expand",
+  "skipErrorChecking": true
+}
