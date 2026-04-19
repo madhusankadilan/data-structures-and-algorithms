@@ -1,7 +1,6 @@
 import { ProblemData } from "../../_core";
 
 export const data: ProblemData = {
-   title: "2. Add Two Numbers",
    tags: "Easy | Algorithms",
    description: `Given an array of integers  <code>nums</code>  and an integer  <code>target</code> , return <em>indices</em> of the two
 numbers such that they add up to target.</br></br>
