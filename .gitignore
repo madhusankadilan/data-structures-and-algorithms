@@ -1,2 +1,9 @@
 .vscode
 node_modules
+
+# Machine-specific files
+.DS_Store
+.idea/
+*.iml
+.mcp.json
+.claude/settings.local.json
